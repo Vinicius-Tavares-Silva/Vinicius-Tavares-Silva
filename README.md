@@ -1,5 +1,11 @@
 ## Hi there, I'm Vinicius Tavares da Silva! 👋
-📚 Web development student
+Full Stack Developer with experience in building and enhancing web applications in highly complex environments, working across front-end, back-end, and cloud technologies. Throughout my career, I have contributed to large-scale internal products serving different business areas and collaborated with multiple cross-functional teams.
+
+I have strong experience with Vue.js and Nuxt, integrating REST APIs built with Python, and using AWS services such as Lambda, SQS, RDS, and DynamoDB to develop scalable, resilient, and event-driven solutions.
+
+I am focused on delivering high-quality code, well-structured solutions, and continuous improvements, actively contributing to agile teams throughout the entire development lifecycle—from initial conception to feature maintenance. In addition to hands-on development, I am highly interested in continuing to grow as a technical leader by supporting architectural decisions, promoting best practices, providing day-to-day mentorship, and actively contributing to team development.
+
+I believe that technology, when applied effectively, can create a meaningful impact for both businesses and people.
 
  <div>
   <a href="https://github.com/Vinicius-Tavares-Silva">
